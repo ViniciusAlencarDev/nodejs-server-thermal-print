@@ -1,5 +1,5 @@
 {
-  "name": "test-server-thermical-printer",
+  "name": "nodejs-server-thermal-print",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
